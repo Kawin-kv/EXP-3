@@ -53,7 +53,8 @@ CIRCUIT DIAGRAM:
 ![bee exp 3](https://github.com/user-attachments/assets/66daec8f-41a4-415f-a146-36aa960f7b45)
 
 Tabulation:2
-![exp333](https://github.com/user-attachments/assets/060a2e2e-ad5d-4ec3-a12a-1cd14a89aae6)
+![exp33333](https://github.com/user-attachments/assets/b7796e56-424e-439b-8168-7294127e8b1c)
+
 
 
 RESULT:
